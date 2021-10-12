@@ -1,0 +1,26 @@
+Site name
+author name
+user input
+boolean for js, css
+scanner
+
+Query for site name, authorship, css,js
+
+store in variables
+
+call boilerplate print function
+    create root dir
+    print created dialogue
+
+    create index.html
+    print created dialogue
+
+    create writer for index.html
+
+    write boilerplate with passed name and author
+
+    logic gate passed if user wants CSS and JS
+        if so, create dir
+        print created dialogue
+
+    close writer

@@ -1,0 +1,20 @@
+word counter
+    reader
+    current read line
+    string to copy into
+
+    while current line isnt null
+    copy to string
+
+    remove spaces and copy into array
+
+    for each word
+        check if word has been tested
+    check all in array
+        if match, print
+
+    mark as completed
+
+main
+    init file
+    call word counter

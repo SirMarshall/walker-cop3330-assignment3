@@ -1,0 +1,21 @@
+int number of records
+create file
+
+call to count records saved in int
+    reuse ex41 file handling count records
+
+initialize 2d array of records to number of counted records
+
+call record indexer
+    init reader
+    init string for current record
+
+    for each number of records
+    store in string
+    store in array, split at comma for 2nd dimension
+
+    return array
+
+call record printer
+    for each number of records
+    print array index

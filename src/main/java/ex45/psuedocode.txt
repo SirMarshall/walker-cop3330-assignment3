@@ -1,0 +1,18 @@
+word replacer
+    unreplaced string
+    reader, writer
+    current line
+
+    while current line isnt null
+    unreplaced string copied
+
+    replace function
+
+    write to output
+
+main
+    scanner
+    file input
+
+    output name query
+    call word replacer

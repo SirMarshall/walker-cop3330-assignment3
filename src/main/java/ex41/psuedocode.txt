@@ -1,0 +1,38 @@
+Create variables
+    list of names
+    integer count of names
+
+Initialize files
+input
+output
+
+Call to method for count of names
+    string holding current read name
+    int counter of names
+
+    new file reader
+
+    while line is not empty, read name
+        update counter
+
+initialize list of names to count of names
+
+call text reader method
+    string holding current name
+    int counter
+
+    new file reader
+    while line is not empty read name
+        list of name is current name
+        update counter
+
+    return
+
+call auto array sort
+
+write file method
+    copy string to file
+
+master print
+
+
